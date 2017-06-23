@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trash</string>
+    <string name="main_send_button_label">보내기</string>
+</resources>
